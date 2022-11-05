@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on anything where I can learn!
 - 📫 How to reach me: @matejgorba on socials
 
+
+I am still figuring out how this site works.
+
+Gonna post the projects I am working on here. Mainly for myself to track my progress.
+
+
 <!---
 matejgg/matejgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
