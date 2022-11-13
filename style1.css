@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Sono&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+/* VARIABLES */
+
+:root {
+    --FONT-FAMILY: "Sono", sans-serif;
+    --FONT-HEADINGS: "Fugaz", sans-serif;
+    --FONT-COLOR: whitesmoke;
+    --FONT-SIZE: clamp(1rem, 2.2vh, 1.5rem);
+    --MARGIN-HEADINGS: 0 0.5rem 0.5rem 0.5rem;
+    --PADDING-HEADINGS: 1rem;
+    --PADDING-PARAGRAPHS: 0.5rem;
+    --BG-COLOR: rgb(105, 80, 113);
+    --BG-IMAGE: url('bgimage.jpg');
+    --BODY-BGCOLOR: linear-gradient(to bottom, var(--BG-COLOR), rgb(118, 103, 126));
+    --BORDER-COLOR: gray;
+    --BORDERS: 2px solid var(--BORDER-COLOR);
+}
+
+html {
+    font-family: var(--FONT-FAMILY);
+    font-size: var(--FONT-SIZE);
+    scroll-behavior: smooth;
+    background-color: var(--BG-COLOR);
+    background-image: var(--BG-IMAGE);
+    background-repeat: repeat;
+    color: var(--FONT-COLOR);
+}
+
+h1, h2, h3 {
+    font-family: var(--FONT-HEADINGS);
+    margin: var(--MARGIN-HEADINGS);
+    padding: var(--PADDING-HEADINGS);
+    letter-spacing: 0.1em;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background-image: var(--BODY-BGCOLOR);
+    min-height: 100vh;
+    max-width: 700px;
+    margin: 0 auto;
+    border-left: var(--BORDERS);
+    border-right: var(--BORDERS);
+    box-shadow: 5px 0 50px rgb(88, 83, 83);
+}
+
+p {
+    line-height: 1.5;
+    padding: var(--PADDING-PARAGRAPHS);
+}
+
+.myself {
+    border-radius: 90px;
+}
+
