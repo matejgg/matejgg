@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matejgg. I started coding on 27th October 2022               
-- 👀 I’m interested in learning how to code better so I can get a job in this field 
-- 🌱 I’m currently learning HTML, CSS and soon JavaSript
+- 👀 I’m interested in learning how to code better, my goal is to find a job in this field 
+- 🌱 I’m currently learning JavaSript / React
 - 💞️ I’m looking to collaborate on anything where I can learn!
 - 📫 How to reach me: @matejgorba on socials
 
