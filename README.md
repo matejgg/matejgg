@@ -2,8 +2,6 @@
 - 👀 I’m interested in learning how to code better, my goal is to find a job in this field 
 - 🌱 I’m currently learning JavaSript / React
 - 💞️ I’m looking to collaborate on anything where I can learn!
-- 📫 How to reach me: @matejgorba on socials
-
 
 I am still figuring out how this site works.
 
